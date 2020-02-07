@@ -26,7 +26,7 @@ SECRET_KEY = '5agjriik*@b6)wu43xqi(elsqsyfcyhki1fts5oijrtk7!u5f6'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1','rhodesilent.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rhodesilent.pythonanywhere.com']
 
 
 # Application definition
